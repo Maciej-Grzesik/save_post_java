@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: posts
+  main:
+    web-application-type: none
+
+api:
+  url: https://jsonplaceholder.typicode.com/posts
+
+save:
+  directory: ./output
